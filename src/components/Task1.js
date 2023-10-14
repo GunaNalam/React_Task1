@@ -38,7 +38,6 @@ class Temp extends Component{
                     </div>
                     <div className="col-11 text-start mx-auto fs-5 pb-3">
                         Word Count: {this.state.ResultText} 
-                        <FaCode></FaCode>
                     </div>
                 </div>
             </div>
